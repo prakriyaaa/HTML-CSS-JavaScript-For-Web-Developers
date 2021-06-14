@@ -70,8 +70,8 @@ section.dish-three>h2
 /**all the paragraphs that are a direct child of the element:  section**/
 section>p 
 {
-  padding : 45px 15px 15px 15px;
-  height : 300px;
+  padding : 45px 20px 20px 20px;
+
 }
 
 									/*****************MEDIA QUERIES************/
