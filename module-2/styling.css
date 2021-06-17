@@ -6,7 +6,7 @@
 
 
 .row
- {
+{
     width: 100%;
 }
 
@@ -71,7 +71,7 @@ section.dish-three>h2
 section>p 
 {
   padding : 45px 15px 15px 15px;
-  height: 250px;
+  
 }
 
 									/*****************MEDIA QUERIES************/
